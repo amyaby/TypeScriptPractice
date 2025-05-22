@@ -1,5 +1,5 @@
 # TypeScriptPractice
-Those challenges are from 'typescriptgamified' site :)
+             :)
 ## Game 1: **Play Rock,Paper,Scissors Game**
 ![Alt Text](Challenge1/images/image.jpeg)
 

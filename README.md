@@ -4,7 +4,7 @@ Those challenges are from 'typescriptgamified' site :)
 ![Alt Text](Challenge1/images/image.jpeg)
 `it's like if you are playing with the computer!!`
 fach kanwarek 3la chi boutton lpc generates wa7ed randowm click puis on determine le gagnant
-![Alt Text](Challenge1/images/image1.jpeg)
+![Alt Text](Challenge1/images/image1.png)
 
 ### NOTE1
 ```ts

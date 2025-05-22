@@ -19,6 +19,7 @@ if (rockBtn) {
 }
 ```
 `-> Explanation`
+
 If the player clicks the rock button:
 
 player = 'rock'
@@ -32,6 +33,7 @@ to get a random item from an array we usually use this pattern:
 choices[Math.floor(Math.random() * choices.length)]
 ```
 `-> Explanation`
+
 **Math.random()**
 → gives a random number between 0 (included) and 1 (excluded)
 → `example:` 0.49, 0.72, etc.

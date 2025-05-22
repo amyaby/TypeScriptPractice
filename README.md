@@ -2,8 +2,10 @@
 Those challenges are from 'typescriptgamified' site :)
 ## Game 1: **Play Rock,Paper,Scissors Game**
 ![Alt Text](Challenge1/images/image.jpeg)
-`it's like if you are playing with the computer!!`
-fach kanwarek 3la chi boutton lpc generates wa7ed randowm click puis on determine le gagnant
+
+`**it's like if you are playing with the computer!!`
+`fach kanwarek 3la chi boutton lpc generates wa7ed randowm click puis on determine le gagnant**`
+
 ![Alt Text](Challenge1/images/image1.png)
 
 ### NOTE1
